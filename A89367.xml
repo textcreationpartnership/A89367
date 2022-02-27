@@ -1,0 +1,314 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most lamentable information of part of the the grievances of Mugleswick, Lordship in the Bishoprick of Durham, sent up by Master George Lilburne, Major of Sunderland to be communicated to the House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89367</idno>
+            <idno type="STC">Wing M2902</idno>
+            <idno type="STC">Thomason 669.f.4[69]</idno>
+            <idno type="STC">ESTC R210295</idno>
+            <idno type="EEBO-CITATION">99869106</idno>
+            <idno type="PROQUEST">99869106</idno>
+            <idno type="VID">160691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160691)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 245:669f4[69])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most lamentable information of part of the the grievances of Mugleswick, Lordship in the Bishoprick of Durham, sent up by Master George Lilburne, Major of Sunderland to be communicated to the House of Commons.</title>
+               </titleStmt>
+               <extent>1 sheet ([1]  p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Appointment, call, and election --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="indictment">
+            <pb facs="tcp:160691:1" rendition="simple:additions"/>
+            <head>A MOST LAMENTABLE INFORMATION OF PART OF THE GRIEVANCES OF MUGLESWICK Lordſhip in the Biſhoprick of Durham, ſent up by Maſter George Lilburne, Major of <hi>Sunderland</hi> to be communicated to the Houſe of Commons.</head>
+            <p>TO all Chriſtian people to whom theſe preſents ſhall come, know that we are a people in that our Pariſh of <hi>Mugleſwicke</hi> who have beene deſtitute of a preaching Miniſter; yea, ever ſince any of us that now are breathing were borne, to our ſoules great griefe and dreadfull hazard of deſtruction; neither is it our caſe alone but alſo ten, yea or twelve Pariſhes all adjoyning are in like manner void of the meanes of ſalvation, whoſe caſe and condition is deepely to be deplored: And as for us in <hi>Mugleſwicke</hi> wee have had none, neither good nor bad ſince <hi>Martinmas,</hi> Anno Dom. 1640. but ſuch as the Scottiſh Presbiterie furniſhed us withall (bemoaning our miſerable eſtate) for hee who then ſupplyed the place, departed this life about the day of the date above mentioned; and wee immediatly after his death rode to one Maſter <hi>Jam<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> Miniſter of <hi>Riton,</hi> being one of the Prebends of <hi>Durham,</hi> intreating him with all earneſtneſſe with an humble Petition, becauſe he then was in authoritie, and no more of that ſect left in the Countie, but all fled becauſe of the Scots; that this our poore Pariſh of <hi>Mugleſwick</hi> might once at length have the fruition of a faithfull Miniſter, but hee anſwered that they <hi>(viz.)</hi> the Pre<g ref="char:EOLhyphen"/>bends had already appointed us a man, namely one <hi>Iohn Duery</hi> whom we knew; Then with all our ſoules wee beſought him that we might be exempted of that <hi>Duery,</hi> becauſe wee knew him to be no Preacher, and his life and converſation ſcandalous, and had two plaees at that preſent already as we told him; and alſo that he publikely confeſſed in a Pulpit before an open aſſembly that hee could not preach, and yet that aſpiring Prebend (whoſe lifeleſſe conſcience we leave to your cenſure) replyed that they had once authorized him, and wee neither could nor ſhould depoſe him, and he alſo told us in plaine tearmes, that if he could reade the prayer booke, and an homily, it was nothing to us what kind of man he was; ſo when things would be no better, it behooved us to come home with theſe cold comforts, having heavy hearts that our ſoules ſhould a longer ſeaſon be inthralled to ſuch a ſimple, yea (we dare ſay) ſinfull Miniſter, who is ignorant of the very principles of Religion: (yet our Allſufficient God (ſeeing that we were but breeding and beginning in Chriſtianitie) would let no more be laid upon us then we were able to beare) and ſo ſeeing us unwilling to accept of him he gave over. Then the place being void for the ſpace of a whole yeare, wee our ſelves betwixt griefe and neceſſitie went abroad to ſeeke, and it pleaſed our God to ſend ſuch an one as our ſoules longed after, and no ſooner found we one whom our minds affected, but immediatly thoſe Prebends (who whether they were friends or foes to Chriſt, judge yee) that will not ſticke to hazard their heads, ſo they may hinder the truth, doe impoſe one <hi>Braidly</hi> upon us, a bird brought out of the neſt of their boſomes, who (we may ſay without ſinne) is one of the moſt deboiſt amongſt the ſonnes of men, for hee will neither preach himſelfe nor yet permit others, but upon the Sabbath day hee tooke the Locke from the Church doore, and faſtned on one of his owne, ſo as that the Pariſhioners were forced for to ſtand in the Church yard to diſcharge divine duties with their Miniſter in cold froſt and ſnow, to the infinite diſhonour of the Almightie the great griefe of their minds, and the dreadfull indangering of themſelves in that ſtormy time of the yeare; other times before he came into the Church whilſt our own Miniſter was in his exhortation, and ſtood up beſide him reading with a loud voyce in a booke to overtop the ſound of his words, Afterward pulled him by the coate when hee was in the Pulpit, but when neither of theſe would cauſe him to deſiſt from duty, he goes and rings the Bels all aloud; neither is this all, but out of malice cals a Commu<g ref="char:EOLhyphen"/>nion and enters upon the ſacred action without any preparation Sermon before the day. Now the people having proteſted before as they were directed to doe before by the Parliament againſt all Popiſh innovations, they doubted and therefore durſt not communicate with him in theſe his corrupt courſes. And likewiſe the ſayd <hi>Braidly</hi> had affirmed before the open aſſembly, that the Proteſtation was falſe. Then hee after that venteth his inveterate envie with his ſecret and ſinfull intention, for after that he had come and collected a Catalogue of the names of thoſe that had reſtrayning conſciences; at the next Seſſions after he indicted them all above 14. yeares old and above, yea many of them being ſuch as a prudent Paſtor would in no wiſe have admitted to partake of thoſe precious ordinances, by reaſon of their minoritie and nonage, and ſo at this inſtant ſcarce liable to the cenſure of the Law, to the number of 67. ſoules or more, yea many of them being indicted a<g ref="char:EOLhyphen"/>gaine and againe, are ſo proſecuted and perplexed as that they are even forced to forſake their vocations and callings, and caſt themſelves upon the Lords ſpeciall providence, and others of them that ſtaie, are driven to exceſſive expences, many of them to more then they have of their owne; and others againe, namely old women, and infirme women, being ſo great with child or ſo newly delivered of child that they can neither ride nor goe, therefore doe deſire to keepe out of their clawes, yet their owne houſes cannot keepe them ſafe from certaine peſtiferous Bayliffes, who through the procurement of the ſayd <hi>Braidly</hi> are preferred to the office, that like for lewd lives they could no where elſe have found among Chriſtians, for they are full as inhumane as thoſe Rebels in Ireland, that neither doubt nor dread ſuperiour powers; yea they will not ſticke to burſt and breake open doores, picke barres, and being come within the houſe they draw their Swords, and hold out Piſtols againſt poore womens breaſts, commanding them to light candles, otherwiſe they ſhall let them ſee a lamentable light with their Pi<g ref="char:EOLhyphen"/>ſtols; and doe ſo aſtoniſh poore ſimple women with children that they drive them to a deſperate condition, well nigh beſide themſelves. Some of the ſaid parties got a Warrant from a Juſtice to bind them to the peace, and delivered it to the Bayliffe to ſerve, and ſo they went before ſome of his Majeſties Juſtices of peace (whereof Sir <hi>John Conyers</hi> was one) who refuſed to binde thoſe deboiſt fellowes; now the Bayliffes names are as followeth, Maſter <hi>Clement Richardſon</hi> (who ſayd that they who had taken the Proteſtation had need to goe to the Parliament to beg a par<g ref="char:EOLhyphen"/>don or elſe they would be beggered) <hi>Hugh Joplin, Thomas Foſer</hi> ſonne in law to the ſaid <hi>Joplin, Cuthbert Hopper</hi> and <hi>Robert Simpſon,</hi> theſe through the aſſiſtance of one <hi>Thomas Miſſe,</hi> who is intimate with authority, and makes his brags openly that he is the author of all theſe troubles, and onely uſeth the reſt as agents for the effecting of theſe his miſchievous prankes. Now know to whomſoever theſe preſents ſhall come, that wee are a poore people, not fully as yet brought forth by the ſpirituall birth, and therefore helpe, helpe, helpe, as you tender the honour of your hea<g ref="char:EOLhyphen"/>venly King; and finally know this, that all herein is truth, and nothing but the truth, as all thoſe whoſe names are here ſubſcribed will teſtifie.</p>
+            <list>
+               <item>Mr. <hi>William Moore.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Iley.</hi>
+               </item>
+               <item>
+                  <hi>Iſahell Iley.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Iley.</hi>
+               </item>
+               <item>
+                  <hi>George Oliver.</hi>
+               </item>
+               <item>
+                  <hi>Richard March.</hi>
+               </item>
+               <item>
+                  <hi>Iane</hi> His wife.</item>
+               <item>
+                  <hi>Iohn March.</hi>
+               </item>
+               <item>
+                  <hi>Thomas March.</hi>
+               </item>
+               <item>
+                  <hi>Iane March.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth March.</hi>
+               </item>
+               <item>
+                  <hi>Edward Ward.</hi>
+               </item>
+               <item>
+                  <hi>Margret Ward.</hi>
+               </item>
+               <item>
+                  <hi>Robert Raw.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Readſhaw.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Readſhaw.</hi>
+               </item>
+               <item>
+                  <hi>William Loborne.</hi>
+               </item>
+               <item>
+                  <hi>Iane Loborne.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Arde.</hi>
+               </item>
+               <item>
+                  <hi>Francis Lampton.</hi>
+               </item>
+               <item>
+                  <hi>Robert Readſhaw.</hi>
+               </item>
+               <item>
+                  <hi>George Rippon.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Rippon.</hi>
+               </item>
+               <item>
+                  <hi>Anne Carrudders.</hi>
+               </item>
+               <item>
+                  <hi>Rowland Harriſon.</hi>
+               </item>
+               <item>
+                  <hi>Iane Harriſon.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Lonſedale.</hi>
+               </item>
+               <item>
+                  <hi>Francis Ward.</hi>
+               </item>
+               <item>
+                  <hi>Cuthbert Ward.</hi>
+               </item>
+               <item>
+                  <hi>Cuthbert Ward,</hi> Elder.</item>
+               <item>
+                  <hi>Mary Ward.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Ward.</hi>
+               </item>
+               <item>
+                  <hi>Cuthbert Harriſon.</hi>
+               </item>
+               <item>
+                  <hi>Iane,</hi> His wife.</item>
+               <item>
+                  <hi>Iohn Hopper.</hi>
+               </item>
+               <item>
+                  <hi>Anne Hopper.</hi>
+               </item>
+               <item>
+                  <hi>Margret Ioplin</hi> Widdow.</item>
+               <item>
+                  <hi>Iohn Ioplin,</hi>
+               </item>
+               <item>
+                  <hi>William Ioplin.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Ward.</hi>
+               </item>
+               <item>
+                  <hi>Margret Ioplin.</hi>
+               </item>
+               <item>
+                  <hi>Richard Cheſter.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Blenkinſop.</hi>
+               </item>
+               <item>
+                  <hi>Cuthbert Palleſor.</hi>
+               </item>
+               <item>
+                  <hi>Robert Kirkeley.</hi>
+               </item>
+               <item>
+                  <hi>Alice,</hi> His wife.</item>
+               <item>
+                  <hi>Thomas Maddeſon.</hi>
+               </item>
+               <item>
+                  <hi>Anne,</hi> His wife.</item>
+               <item>
+                  <hi>Thomas Maddeſon,</hi> Jun.</item>
+               <item>
+                  <hi>Anne Maddeſon,</hi> Jun.</item>
+               <item>
+                  <hi>Alexander Maddeſon.</hi>
+               </item>
+               <item>
+                  <hi>Andrew Raw.</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Kirkeley.</hi>
+               </item>
+               <item>
+                  <hi>George Raw.</hi>
+               </item>
+               <item>
+                  <hi>Arthur Kirkeley.</hi>
+               </item>
+               <item>
+                  <hi>Iane Kirkeley.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Kirkeley.</hi>
+               </item>
+               <item>
+                  <hi>Steven Raw.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Darnell.</hi>
+               </item>
+               <item>
+                  <hi>Margret Ioplin.</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Wheeteley</hi>
+               </item>
+               <item>
+                  <hi>Margret Wheeteley.</hi>
+               </item>
+               <item>
+                  <hi>Iames Carie</hi>
+               </item>
+               <item>
+                  <hi>Mary Richardſon.</hi>
+               </item>
+               <item>
+                  <hi>Nicholas Maughen.</hi>
+               </item>
+               <item>
+                  <hi>Iohn Dridon.</hi>
+               </item>
+               <item>
+                  <hi>Matthew Stokoe.</hi>
+               </item>
+            </list>
+            <p>Theſe are all indicted.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
